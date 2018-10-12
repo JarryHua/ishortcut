@@ -1,0 +1,71 @@
+
+Most Frequency
+[TOOLS #1 @TERMINAL]
+  * CTRL + ~                      [***** **   ]   [TOGGLE terminal]
+  * CTRL + K                      [***** *    ]   [clean]
+  * CTRL + SHIFT + /              [****       ]   [kill]
+  * CTRL + SHIFT + ~              [***        ]   [new]
+  
+
+[TOOLS #2 @OTHERS]  
+  * CTRL + SHIFT + 0              [***** **   ]   [TOGGLE output]
+  * CTRL + SHIFT + 9              [*****      ]   [open devtools]
+  * CTRL + SHIFT + 8              [*****      ]   [debug console]
+  * CTRL + J                      [***** **   ]   [TOGGLE panel]
+  * ALT  + L,ALT + O              [***** **   ]   [open   live server]
+  * ALT  + L,ALT + C              [***** **   ]   [cancel live server]
+
+  
+[SIDEBAR]
+  * CTRL + 0                      [*****      ]   [focus into bar]
+  * CTRL + B                      [*****      ]   [TOGGLE side bar]
+  * CTRL + SHIFT + N			        [**         ]   [new folder]
+
+
+[FILE]
+  * CTRL + N                    	[*****      ]   [new]
+  * CTRL + S                      [*****      ]   [save]
+  * CTRL + P                      [***** *****]   [pick file]  [incremently match]
+  * CTRL + 1	                 	  [***** *****]   [focus into editor]
+  * CTRL + W                      [***** *****]   [close editor]
+  * CTRL + K, P                   [****       ]   [file path]
+  * CTRL + K, R                   [***** **   ]   [reveal file in OS]
+  * SHIFT+ALT,R                   [**         ]   [reveal file in OS from explore] 
+
+
+[WINDOW]
+  * CTRL + \                      [*****      ]   [new editor]
+  * CTRL + K, CTRL + [LRUD]       [****       ]   [focus into *]
+  * CTRL + ALT, LR                [***        ]   [move editor into *]
+  * CTRL + K, [LRUD]              [**         ]   [move group over to *]
+
+
+[TYPE #1@snip]
+  
+
+[TYPE #2]  
+  * CTRL  + ENTER                 [***** **   ]   [insert line below] 
+  * CTRL  + SHIFT + ENTER         [*****      ]   [insert line above]
+  * CTRL  + SHIFT + K             [***** **   ]   [delete line]
+  * CTRL  + X                     [***** **   ]   [cut line]
+  * SHIFT + ALT + [D]             [***** *    ]   [duplicate line]
+  * ALT   + [U/D]                 [*****      ]   [move line up or down]
+  * CTRL  + /                     [***** *****]   [TOGGLE comment one line]
+  * CTRL  + K, CTRL + C           [***** **   ]   [comment]
+  * CTRL  + K, CTRL + U           [***** **   ]   [comment out]
+  * SHIFT + ALT + A               [***** **** ]   [comment block]
+
+
+[EDIT]
+  * F2                            [***** *****]   [rename batchly]
+  * CTRL  + D                     [***** *****]   [select word,add * to next match]
+  * ALT   + U                     [***** **   ]   [uppercase]
+  * ALT   + L                     [***** **   ]   [lowercase]
+
+
+[NAVIAGTION]
+  * go to definition              [*********  ]   [go to definition]
+  * ALT   + L                     [***** **   ]   [go back]
+  * ALT   + R                     [***** *    ]   [go forward]
+  * CTRL  + K, CTRL + Q           [***** *****]   [go to last edition]
+  * CTRL  + G                     [****       ]   [go * line]
