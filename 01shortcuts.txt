@@ -19,14 +19,14 @@ Most Frequency
 [SIDEBAR]
   * CTRL + 0                      [*****      ]   [focus into bar]
   * CTRL + B                      [*****      ]   [TOGGLE side bar]
-  * CTRL + SHIFT + N			        [**         ]   [new folder]
+  * CTRL + SHIFT + N			           [**         ]   [new folder]
 
 
 [FILE]
-  * CTRL + N                    	[*****      ]   [new]
+  * CTRL + N                    	 [*****      ]   [new]
   * CTRL + S                      [*****      ]   [save]
   * CTRL + P                      [***** *****]   [pick file]  [incremently match]
-  * CTRL + 1	                 	  [***** *****]   [focus into editor]
+  * CTRL + 1	                 	   [***** *****]   [focus into editor]
   * CTRL + W                      [***** *****]   [close editor]
   * CTRL + K, P                   [****       ]   [file path]
   * CTRL + K, R                   [***** **   ]   [reveal file in OS]
